@@ -19,7 +19,7 @@ infraestrutura.
 
 **Linguagens/Frameworks:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3.
 
-**Dados e Ferramentas:** SQL, Git, WordPress, Kanban.
+**Dados e Ferramentas:** SQL, Git, WordPress, Kanban, Capcut, Grok, ChatGpt, Claude, Google AI Studio.
 
 **Infraestrutura:** Suporte N1/N2, Windows Server, Acesso Remoto.
 
